@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,900;1,100;1,900&family=Roboto:ital,wght@0,100;0,400;0,700;1,300;1,400&display=swap');
+body { 
+    padding-top: 10px;
+    font-family: Montserrat;
+    width: 960px;
+    min-height: 100%;
+    margin: 0 auto;
+}
+
+.quotes {
+    font-family: Roboto;
+}
+
+.footer-name {
+    color: #F0F4F8;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 900;
+    font-size: 50px;
+}
+
+.footer-box {
+    background-color: #F0F4F8;
+    
+}
+
+.abox { padding-left: 40px;margin: 0 auto;min-height: 0 auto; }
+ 
+.hi1 { background-color:#F7D070; }
+
+.hi2 { background-color:#A61B1B;color: white; }
+
+.bighead {
+    background-color: #102A43;
+    color: white;
+    height: 200px;
+    font-weight: bolder;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    background-size: 100% auto;
+    justify-content: center;
+}
+
+.rob {font-size: xx-large;}
+
+.contactinfo { font-size: x-large; }
+
+.soc { font-size:xx-large; }
+
+.onlypic { border:10px solid #9FB3C8 ; margin-top: 20px; width:200px;}
+
+th { background-color: #9FB3C8;}
+td { background-color: #F0F4F8;}
