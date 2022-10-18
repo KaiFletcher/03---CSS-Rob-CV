@@ -17,11 +17,15 @@ body {
     font-family: Montserrat;
     font-weight: 900;
     font-size: 50px;
+    margin-top: -20px;
 }
 
 .footer-box {
     background-color: #F0F4F8;
-    
+    display: flexbox;
+    margin: auto;
+    height: 100px;
+    margin-top: -20px;
 }
 
 .abox { padding-left: 40px;margin: 0 auto;min-height: 0 auto; }
@@ -46,7 +50,7 @@ body {
 
 .contactinfo { font-size: x-large; }
 
-.soc { font-size:xx-large; }
+.soc { font-size: 30px; }
 
 .onlypic { border:10px solid #9FB3C8 ; margin-top: 20px; width:200px;}
 
